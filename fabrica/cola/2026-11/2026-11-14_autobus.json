@@ -1,0 +1,30 @@
+{
+ "slug": "autobus",
+ "fecha": "2026-11-14T19:30:00+01:00",
+ "origen": "anuncio (autobus)",
+ "estado": "aprobado",
+ "salida": {
+  "mp4": "lote-2026-11-10/autobus.mp4",
+  "bytes": 1921573,
+  "sha256": "c15faf2201383cc5e456843f0dcf57af15ed9c04a900a9e1aa8b28456332195f"
+ },
+ "textos": {
+  "instagram_tiktok": "Presi, el autobús se ha parado y hay partido. ¿Taxis para todos, las furgonetas de los padres o el autobús del rival?\n\nMandamás FC: eres el presidente de un club de Tercera. Demo gratis, enlace en el perfil.\n\n#futbol #juegodefutbol #presidente #mandamasfc",
+  "youtube_titulo": "El autobús se ha parado · Mandamás FC",
+  "youtube_descripcion": "Presi, el autobús se ha parado y hay partido. ¿Taxis para todos, las furgonetas de los padres o el autobús del rival?\n\nMandamás FC: eres el presidente de un club de Tercera. Juega la demo gratis: https://mandamasfc.com/yt?utm_campaign=autobus\n\n#futbol #juegodefutbol #presidente",
+  "youtube_para_ninos": false
+ },
+ "ia": true,
+ "historial": [
+  {
+   "estado": "preparado",
+   "fecha": "2026-11-08T12:50:00+01:00",
+   "por": "Claude"
+  },
+  {
+   "estado": "aprobado",
+   "fecha": "2026-11-08T12:54:00+01:00",
+   "por": "Xavi"
+  }
+ ]
+}
