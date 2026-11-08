@@ -1,0 +1,6 @@
+{"escenas":[
+ {"img":"mandamas-fc/Claude outputs/para-fable-pantallas/28-ultimo-aviso.png","recorte":[0,40,786,900],"titulo":"Último aviso","sub":"Dos jornadas con la junta en rojo.","dur":3.6},
+ {"img":"mandamas-fc/Claude outputs/para-fable-pantallas/50-despido.png","recorte":[0,70,786,1000],"titulo":"A la tercera, a la calle","sub":"Como en el fútbol.","dur":4.0}
+],
+"cierre":{"titulo":"¿Cuántas temporadas aguantarías tú?","dur":3.0},
+"audio":{"fondo":"mandamas-fc/public/audio/latidos.mp3","efectos":[["mandamas-fc/public/audio/abucheo.mp3",3.4],["mandamas-fc/public/audio/sello.mp3",3.8],["mandamas-fc/public/audio/periodico.mp3",7.6]]}}
