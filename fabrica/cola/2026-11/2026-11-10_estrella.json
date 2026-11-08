@@ -2,7 +2,7 @@
  "slug": "estrella",
  "fecha": "2026-11-10T19:30:00+01:00",
  "origen": "anuncio (estrella)",
- "estado": "aprobado",
+ "estado": "programado",
  "salida": {
   "mp4": "lote-2026-11-10/estrella.mp4",
   "bytes": 6404890,
@@ -25,6 +25,15 @@
    "estado": "aprobado",
    "fecha": "2026-11-08T12:54:00+01:00",
    "por": "Xavi"
+  },
+  {
+   "estado": "programado",
+   "fecha": "2026-11-08T12:56:00+01:00",
+   "por": "Claude"
   }
- ]
+ ],
+ "metricool": {
+  "instagram_tiktok": 420678870,
+  "youtube": 420678964
+ }
 }

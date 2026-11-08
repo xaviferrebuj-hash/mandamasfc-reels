@@ -2,7 +2,7 @@
  "slug": "autobus",
  "fecha": "2026-11-14T19:30:00+01:00",
  "origen": "anuncio (autobus)",
- "estado": "aprobado",
+ "estado": "programado",
  "salida": {
   "mp4": "lote-2026-11-10/autobus.mp4",
   "bytes": 1921573,
@@ -25,6 +25,15 @@
    "estado": "aprobado",
    "fecha": "2026-11-08T12:54:00+01:00",
    "por": "Xavi"
+  },
+  {
+   "estado": "programado",
+   "fecha": "2026-11-08T12:56:00+01:00",
+   "por": "Claude"
   }
- ]
+ ],
+ "metricool": {
+  "instagram_tiktok": 420679119,
+  "youtube": 420679182
+ }
 }

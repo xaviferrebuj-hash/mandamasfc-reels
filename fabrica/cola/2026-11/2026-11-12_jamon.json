@@ -2,7 +2,7 @@
  "slug": "jamon",
  "fecha": "2026-11-12T19:30:00+01:00",
  "origen": "anuncio (jamon)",
- "estado": "aprobado",
+ "estado": "programado",
  "salida": {
   "mp4": "lote-2026-11-10/jamon.mp4",
   "bytes": 1690106,
@@ -25,6 +25,15 @@
    "estado": "aprobado",
    "fecha": "2026-11-08T12:54:00+01:00",
    "por": "Xavi"
+  },
+  {
+   "estado": "programado",
+   "fecha": "2026-11-08T12:56:00+01:00",
+   "por": "Claude"
   }
- ]
+ ],
+ "metricool": {
+  "instagram_tiktok": 420679023,
+  "youtube": 420679057
+ }
 }

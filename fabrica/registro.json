@@ -1,4 +1,13 @@
 {
-  "actualizado": "2026-11-08T12:45:00+01:00",
-  "eventos": [{"fecha": "2026-11-08", "que": "Repo creado; primer lote en revisión"}]
+ "actualizado": "2026-11-08T12:56:00+01:00",
+ "eventos": [
+  {
+   "fecha": "2026-11-08",
+   "que": "Repo creado; primer lote en revisión"
+  },
+  {
+   "fecha": "2026-11-08",
+   "que": "Programados en Metricool (marca 7745084): estrella 10-11, jamón 12-11 y autobús 14-11 a las 19:30, en Instagram, TikTok y YouTube Shorts (6 publicaciones, confirmadas con getScheduledPosts)"
+  }
+ ]
 }
