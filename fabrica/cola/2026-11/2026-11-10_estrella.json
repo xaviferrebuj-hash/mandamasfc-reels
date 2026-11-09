@@ -1,39 +1,45 @@
 {
- "slug": "estrella",
- "fecha": "2026-11-10T19:30:00+01:00",
- "origen": "anuncio (estrella)",
- "estado": "programado",
- "salida": {
-  "mp4": "lote-2026-11-10/estrella.mp4",
-  "bytes": 6404890,
-  "sha256": "89b23bf141963883c10391d58b49a0a62c5eb66b31000f83822f83ba0d9a55df"
- },
- "textos": {
-  "instagram_tiktok": "Te ofrecen 7,2 M€ por tu mejor jugador. La caja dice sí; la grada, no. ¿Vendes a Ibarra?\n\nMandamás FC: eres el presidente de un club de Tercera. Demo gratis, enlace en el perfil.\n\n#futbol #juegodefutbol #presidente #mandamasfc",
-  "youtube_titulo": "¿Venderías a tu estrella? · Mandamás FC",
-  "youtube_descripcion": "Te ofrecen 7,2 M€ por tu mejor jugador. La caja dice sí; la grada, no. ¿Vendes a Ibarra?\n\nMandamás FC: eres el presidente de un club de Tercera. Juega la demo gratis: https://mandamasfc.com/yt?utm_campaign=estrella\n\n#futbol #juegodefutbol #presidente",
-  "youtube_para_ninos": false
- },
- "ia": true,
- "historial": [
-  {
-   "estado": "preparado",
-   "fecha": "2026-11-08T12:50:00+01:00",
-   "por": "Claude"
+  "slug": "estrella",
+  "fecha": "2026-11-10T19:30:00+01:00",
+  "origen": "anuncio (estrella)",
+  "estado": "programado",
+  "salida": {
+    "mp4": "lote-2026-11-10/estrella.mp4",
+    "bytes": 6404890,
+    "sha256": "89b23bf141963883c10391d58b49a0a62c5eb66b31000f83822f83ba0d9a55df"
   },
-  {
-   "estado": "aprobado",
-   "fecha": "2026-11-08T12:54:00+01:00",
-   "por": "Xavi"
+  "textos": {
+    "instagram_tiktok": "Te ofrecen 7,2 M€ por tu mejor jugador. La caja dice sí; la grada, no. ¿Vendes a Ibarra?\n\nMandamás FC: eres el presidente de un club de Tercera. Demo gratis en mandamasfc.com (enlace en el perfil).\n\n#futbol #juegodefutbol #presidente #mandamasfc",
+    "youtube_titulo": "¿Venderías a tu estrella? · Mandamás FC",
+    "youtube_descripcion": "Te ofrecen 7,2 M€ por tu mejor jugador. La caja dice sí; la grada, no. ¿Vendes a Ibarra?\n\nMandamás FC: eres el presidente de un club de Tercera. Juega la demo gratis: https://mandamasfc.com/yt?utm_campaign=estrella\n\n#futbol #juegodefutbol #presidente",
+    "youtube_para_ninos": false
   },
-  {
-   "estado": "programado",
-   "fecha": "2026-11-08T12:56:00+01:00",
-   "por": "Claude"
+  "ia": true,
+  "historial": [
+    {
+      "estado": "preparado",
+      "fecha": "2026-11-08T12:50:00+01:00",
+      "por": "Claude"
+    },
+    {
+      "estado": "aprobado",
+      "fecha": "2026-11-08T12:54:00+01:00",
+      "por": "Xavi"
+    },
+    {
+      "estado": "programado",
+      "fecha": "2026-11-08T12:56:00+01:00",
+      "por": "Claude"
+    },
+    {
+      "estado": "programado",
+      "fecha": "2026-11-09T12:20:00+01:00",
+      "por": "Claude, con el OK de Xavi",
+      "nota": "Texto de Instagram y TikTok: «Demo gratis en mandamasfc.com (enlace en el perfil)», porque TikTok no tiene enlace en el perfil. Metricool cambia el id: 420678870 → 421674377."
+    }
+  ],
+  "metricool": {
+    "instagram_tiktok": 421674377,
+    "youtube": 420678964
   }
- ],
- "metricool": {
-  "instagram_tiktok": 420678870,
-  "youtube": 420678964
- }
 }

@@ -1,39 +1,45 @@
 {
- "slug": "jamon",
- "fecha": "2026-11-12T19:30:00+01:00",
- "origen": "anuncio (jamon)",
- "estado": "programado",
- "salida": {
-  "mp4": "lote-2026-11-10/jamon.mp4",
-  "bytes": 1690106,
-  "sha256": "e6743970a0ff3f43c0591dba09fe9417f1f45b14d0bc47eb8c1a57958d2e85a2"
- },
- "textos": {
-  "instagram_tiktok": "Presi, el lote viene sin jamón. ¿Jamón para todos o uno por gol? Cuéntamelo en comentarios.\n\nMandamás FC: eres el presidente de un club de Tercera. Demo gratis, enlace en el perfil.\n\n#futbol #juegodefutbol #presidente #mandamasfc",
-  "youtube_titulo": "¿Jamón para todos o uno por gol? · Mandamás FC",
-  "youtube_descripcion": "Presi, el lote viene sin jamón. ¿Jamón para todos o uno por gol? Cuéntamelo en comentarios.\n\nMandamás FC: eres el presidente de un club de Tercera. Juega la demo gratis: https://mandamasfc.com/yt?utm_campaign=jamon\n\n#futbol #juegodefutbol #presidente",
-  "youtube_para_ninos": false
- },
- "ia": true,
- "historial": [
-  {
-   "estado": "preparado",
-   "fecha": "2026-11-08T12:50:00+01:00",
-   "por": "Claude"
+  "slug": "jamon",
+  "fecha": "2026-11-12T19:30:00+01:00",
+  "origen": "anuncio (jamon)",
+  "estado": "programado",
+  "salida": {
+    "mp4": "lote-2026-11-10/jamon.mp4",
+    "bytes": 1690106,
+    "sha256": "e6743970a0ff3f43c0591dba09fe9417f1f45b14d0bc47eb8c1a57958d2e85a2"
   },
-  {
-   "estado": "aprobado",
-   "fecha": "2026-11-08T12:54:00+01:00",
-   "por": "Xavi"
+  "textos": {
+    "instagram_tiktok": "Presi, el lote viene sin jamón. ¿Jamón para todos o uno por gol? Cuéntamelo en comentarios.\n\nMandamás FC: eres el presidente de un club de Tercera. Demo gratis en mandamasfc.com (enlace en el perfil).\n\n#futbol #juegodefutbol #presidente #mandamasfc",
+    "youtube_titulo": "¿Jamón para todos o uno por gol? · Mandamás FC",
+    "youtube_descripcion": "Presi, el lote viene sin jamón. ¿Jamón para todos o uno por gol? Cuéntamelo en comentarios.\n\nMandamás FC: eres el presidente de un club de Tercera. Juega la demo gratis: https://mandamasfc.com/yt?utm_campaign=jamon\n\n#futbol #juegodefutbol #presidente",
+    "youtube_para_ninos": false
   },
-  {
-   "estado": "programado",
-   "fecha": "2026-11-08T12:56:00+01:00",
-   "por": "Claude"
+  "ia": true,
+  "historial": [
+    {
+      "estado": "preparado",
+      "fecha": "2026-11-08T12:50:00+01:00",
+      "por": "Claude"
+    },
+    {
+      "estado": "aprobado",
+      "fecha": "2026-11-08T12:54:00+01:00",
+      "por": "Xavi"
+    },
+    {
+      "estado": "programado",
+      "fecha": "2026-11-08T12:56:00+01:00",
+      "por": "Claude"
+    },
+    {
+      "estado": "programado",
+      "fecha": "2026-11-09T12:20:00+01:00",
+      "por": "Claude, con el OK de Xavi",
+      "nota": "Texto de Instagram y TikTok: «Demo gratis en mandamasfc.com (enlace en el perfil)», porque TikTok no tiene enlace en el perfil. Metricool cambia el id: 420679023 → 421674402."
+    }
+  ],
+  "metricool": {
+    "instagram_tiktok": 421674402,
+    "youtube": 420679057
   }
- ],
- "metricool": {
-  "instagram_tiktok": 420679023,
-  "youtube": 420679057
- }
 }

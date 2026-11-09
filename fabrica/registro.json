@@ -1,13 +1,17 @@
 {
- "actualizado": "2026-11-08T12:56:00+01:00",
- "eventos": [
-  {
-   "fecha": "2026-11-08",
-   "que": "Repo creado; primer lote en revisión"
-  },
-  {
-   "fecha": "2026-11-08",
-   "que": "Programados en Metricool (marca 7745084): estrella 10-11, jamón 12-11 y autobús 14-11 a las 19:30, en Instagram, TikTok y YouTube Shorts (6 publicaciones, confirmadas con getScheduledPosts)"
-  }
- ]
+  "actualizado": "2026-11-09T12:21:00+01:00",
+  "eventos": [
+    {
+      "fecha": "2026-11-08",
+      "que": "Repo creado; primer lote en revisión"
+    },
+    {
+      "fecha": "2026-11-08",
+      "que": "Programados en Metricool (marca 7745084): estrella 10-11, jamón 12-11 y autobús 14-11 a las 19:30, en Instagram, TikTok y YouTube Shorts (6 publicaciones, confirmadas con getScheduledPosts)"
+    },
+    {
+      "fecha": "2026-11-09",
+      "que": "Biografías cambiadas (Instagram y TikTok, Xavi; YouTube, Claude). TikTok es cuenta personal y no tiene enlace: la dirección va escrita. Texto de Instagram y TikTok de los 3 vídeos cambiado a «Demo gratis en mandamasfc.com (enlace en el perfil)», con el OK de Xavi; ids nuevos en Metricool 421674377, 421674402 y 421674441"
+    }
+  ]
 }
