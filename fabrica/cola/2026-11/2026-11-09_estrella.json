@@ -2,7 +2,7 @@
   "slug": "estrella",
   "fecha": "2026-11-09T19:30:00+01:00",
   "origen": "anuncio (estrella)",
-  "estado": "programado",
+  "estado": "publicado",
   "salida": {
     "mp4": "lote-2026-11-10/estrella.mp4",
     "bytes": 6404890,
@@ -42,10 +42,21 @@
       "fecha": "2026-11-09T13:37:00+01:00",
       "por": "Claude, con el OK de Xavi",
       "nota": "Calendario corregido a lunes, miércoles y viernes (estaba un día tarde por un error de días de la semana): 2026-11-10 → 2026-11-09. Ids de Metricool 421674377/420678964 → 421757332/421757412."
+    },
+    {
+      "estado": "publicado",
+      "fecha": "2026-11-09T19:30:00+01:00",
+      "por": "Metricool",
+      "nota": "Comprobado por Claude a las 19:50 con getScheduledPosts: los tres en PUBLISHED."
     }
   ],
   "metricool": {
     "instagram_tiktok": 421757332,
     "youtube": 421757412
+  },
+  "publicado": {
+    "instagram": "https://www.instagram.com/reel/Dfh-rjaiWne/",
+    "tiktok": "7706241106383555862",
+    "youtube": "https://www.youtube.com/shorts/i2bo6764fUA"
   }
 }

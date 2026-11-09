@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-09T13:38:00+01:00",
+  "actualizado": "2026-11-09T19:51:00+01:00",
   "eventos": [
     {
       "fecha": "2026-11-08",
@@ -24,6 +24,10 @@
     {
       "fecha": "2026-11-09",
       "que": "Calendario corregido: los dos lotes iban un día tarde (martes, jueves y sábado). Ahora lunes, miércoles y viernes a las 19:30: 9, 11 y 13-11 (estrella, jamón, autobús) y 16, 18 y 20-11 (despido, una carta, reto en borrador). Ids nuevos en las piezas."
+    },
+    {
+      "fecha": "2026-11-09",
+      "que": "Primer vídeo publicado: estrella, a las 19:30, en Instagram (reel Dfh-rjaiWne), TikTok (7706241106383555862) y YouTube Shorts (i2bo6764fUA). Comprobado por Claude con getScheduledPosts."
     }
   ]
 }
