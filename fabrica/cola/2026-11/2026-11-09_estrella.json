@@ -1,6 +1,6 @@
 {
   "slug": "estrella",
-  "fecha": "2026-11-10T19:30:00+01:00",
+  "fecha": "2026-11-09T19:30:00+01:00",
   "origen": "anuncio (estrella)",
   "estado": "programado",
   "salida": {
@@ -36,10 +36,16 @@
       "fecha": "2026-11-09T12:20:00+01:00",
       "por": "Claude, con el OK de Xavi",
       "nota": "Texto de Instagram y TikTok: «Demo gratis en mandamasfc.com (enlace en el perfil)», porque TikTok no tiene enlace en el perfil. Metricool cambia el id: 420678870 → 421674377."
+    },
+    {
+      "estado": "programado",
+      "fecha": "2026-11-09T13:37:00+01:00",
+      "por": "Claude, con el OK de Xavi",
+      "nota": "Calendario corregido a lunes, miércoles y viernes (estaba un día tarde por un error de días de la semana): 2026-11-10 → 2026-11-09. Ids de Metricool 421674377/420678964 → 421757332/421757412."
     }
   ],
   "metricool": {
-    "instagram_tiktok": 421674377,
-    "youtube": 420678964
+    "instagram_tiktok": 421757332,
+    "youtube": 421757412
   }
 }

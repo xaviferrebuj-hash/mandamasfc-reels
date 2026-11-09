@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-09T13:15:00+01:00",
+  "actualizado": "2026-11-09T13:38:00+01:00",
   "eventos": [
     {
       "fecha": "2026-11-08",
@@ -20,6 +20,10 @@
     {
       "fecha": "2026-11-09",
       "que": "Lote del 17-11 aprobado por Xavi y programado en Metricool a las 19:30: despido 17-11 (421732646, 421732703), una carta 19-11 (421732788, 421732841) y reto 21-11 como borrador hasta que el reto esté en la pública (421732933, 421733002)."
+    },
+    {
+      "fecha": "2026-11-09",
+      "que": "Calendario corregido: los dos lotes iban un día tarde (martes, jueves y sábado). Ahora lunes, miércoles y viernes a las 19:30: 9, 11 y 13-11 (estrella, jamón, autobús) y 16, 18 y 20-11 (despido, una carta, reto en borrador). Ids nuevos en las piezas."
     }
   ]
 }

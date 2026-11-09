@@ -1,6 +1,6 @@
 {
   "slug": "reto",
-  "fecha": "2026-11-21T19:30:00+01:00",
+  "fecha": "2026-11-20T19:30:00+01:00",
   "origen": "capturas del juego (pruebas, 8-11)",
   "estado": "programado",
   "salida": {
@@ -31,10 +31,16 @@
       "fecha": "2026-11-09T13:13:00+01:00",
       "por": "Claude",
       "nota": "En Metricool como BORRADOR (draft true): solo se activa si el reto llega a la web pública con el despliegue del 11-11. Comprobación programada el 12-11."
+    },
+    {
+      "estado": "programado",
+      "fecha": "2026-11-09T13:37:00+01:00",
+      "por": "Claude, con el OK de Xavi",
+      "nota": "Calendario corregido a lunes, miércoles y viernes (estaba un día tarde por un error de días de la semana): 2026-11-21 → 2026-11-20. Ids de Metricool 421732933/421733002 → 421758109/421758178."
     }
   ],
   "metricool": {
-    "instagram_tiktok": 421732933,
-    "youtube": 421733002
+    "instagram_tiktok": 421758109,
+    "youtube": 421758178
   }
 }

@@ -1,6 +1,6 @@
 {
   "slug": "despido",
-  "fecha": "2026-11-17T19:30:00+01:00",
+  "fecha": "2026-11-16T19:30:00+01:00",
   "origen": "capturas del juego (pruebas, 8-11)",
   "estado": "programado",
   "salida": {
@@ -30,10 +30,16 @@
       "estado": "programado",
       "fecha": "2026-11-09T13:13:00+01:00",
       "por": "Claude"
+    },
+    {
+      "estado": "programado",
+      "fecha": "2026-11-09T13:37:00+01:00",
+      "por": "Claude, con el OK de Xavi",
+      "nota": "Calendario corregido a lunes, miércoles y viernes (estaba un día tarde por un error de días de la semana): 2026-11-17 → 2026-11-16. Ids de Metricool 421732646/421732703 → 421757793/421757867."
     }
   ],
   "metricool": {
-    "instagram_tiktok": 421732646,
-    "youtube": 421732703
+    "instagram_tiktok": 421757793,
+    "youtube": 421757867
   }
 }

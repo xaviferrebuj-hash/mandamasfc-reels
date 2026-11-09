@@ -1,6 +1,6 @@
 {
   "slug": "jamon",
-  "fecha": "2026-11-12T19:30:00+01:00",
+  "fecha": "2026-11-11T19:30:00+01:00",
   "origen": "anuncio (jamon)",
   "estado": "programado",
   "salida": {
@@ -36,10 +36,16 @@
       "fecha": "2026-11-09T12:20:00+01:00",
       "por": "Claude, con el OK de Xavi",
       "nota": "Texto de Instagram y TikTok: «Demo gratis en mandamasfc.com (enlace en el perfil)», porque TikTok no tiene enlace en el perfil. Metricool cambia el id: 420679023 → 421674402."
+    },
+    {
+      "estado": "programado",
+      "fecha": "2026-11-09T13:37:00+01:00",
+      "por": "Claude, con el OK de Xavi",
+      "nota": "Calendario corregido a lunes, miércoles y viernes (estaba un día tarde por un error de días de la semana): 2026-11-12 → 2026-11-11. Ids de Metricool 421674402/420679057 → 421757515/421757610."
     }
   ],
   "metricool": {
-    "instagram_tiktok": 421674402,
-    "youtube": 420679057
+    "instagram_tiktok": 421757515,
+    "youtube": 421757610
   }
 }

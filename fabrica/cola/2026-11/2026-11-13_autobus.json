@@ -1,6 +1,6 @@
 {
   "slug": "autobus",
-  "fecha": "2026-11-14T19:30:00+01:00",
+  "fecha": "2026-11-13T19:30:00+01:00",
   "origen": "anuncio (autobus)",
   "estado": "programado",
   "salida": {
@@ -36,10 +36,16 @@
       "fecha": "2026-11-09T12:20:00+01:00",
       "por": "Claude, con el OK de Xavi",
       "nota": "Texto de Instagram y TikTok: «Demo gratis en mandamasfc.com (enlace en el perfil)», porque TikTok no tiene enlace en el perfil. Metricool cambia el id: 420679119 → 421674441."
+    },
+    {
+      "estado": "programado",
+      "fecha": "2026-11-09T13:37:00+01:00",
+      "por": "Claude, con el OK de Xavi",
+      "nota": "Calendario corregido a lunes, miércoles y viernes (estaba un día tarde por un error de días de la semana): 2026-11-14 → 2026-11-13. Ids de Metricool 421674441/420679182 → 421757690/421757742."
     }
   ],
   "metricool": {
-    "instagram_tiktok": 421674441,
-    "youtube": 420679182
+    "instagram_tiktok": 421757690,
+    "youtube": 421757742
   }
 }
