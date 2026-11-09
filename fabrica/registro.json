@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-09T12:21:00+01:00",
+  "actualizado": "2026-11-09T13:05:00+01:00",
   "eventos": [
     {
       "fecha": "2026-11-08",
@@ -12,6 +12,10 @@
     {
       "fecha": "2026-11-09",
       "que": "Biografías cambiadas (Instagram y TikTok, Xavi; YouTube, Claude). TikTok es cuenta personal y no tiene enlace: la dirección va escrita. Texto de Instagram y TikTok de los 3 vídeos cambiado a «Demo gratis en mandamasfc.com (enlace en el perfil)», con el OK de Xavi; ids nuevos en Metricool 421674377, 421674402 y 421674441"
+    },
+    {
+      "fecha": "2026-11-09",
+      "que": "Preparados para la semana del 17-11, pendientes del OK de Xavi: «Una carta, una decisión» rehecho (sin imágenes cortadas) y «Cada lunes, un reto nuevo» (solo si el reto llega a la web pública el 11-11). Van con el del despido."
     }
   ]
 }

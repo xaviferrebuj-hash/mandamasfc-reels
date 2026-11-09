@@ -1,0 +1,57 @@
+{
+ "escenas": [
+  {
+   "img": "mandamas-fc/Claude outputs/para-fable-pantallas/09-llegada-j1.png",
+   "recorte": [
+    0,
+    602,
+    786,
+    1420
+   ],
+   "titulo": "Eres el presidente",
+   "sub": "Cada jornada eliges hasta tres decisiones.",
+   "dur": 3.2
+  },
+  {
+   "img": "mandamas-fc/Claude outputs/para-fable-pantallas/16-carta-detalle.png",
+   "recorte": [
+    0,
+    670,
+    786,
+    1470
+   ],
+   "titulo": "Cada carta pesa",
+   "sub": "Lo que ganas y lo que te cuesta.",
+   "dur": 3.4
+  },
+  {
+   "img": "mandamas-fc/Claude outputs/para-fable-pantallas/19-carta-roja-sin-decidir.png",
+   "recorte": [
+    0,
+    615,
+    786,
+    1190
+   ],
+   "titulo": "¿Y tú qué harías?",
+   "sub": "Cuéntamelo en comentarios.",
+   "dur": 4.4
+  }
+ ],
+ "cierre": {
+  "titulo": "Sálvalo, súbelo y que no te echen.",
+  "dur": 2.8
+ },
+ "audio": {
+  "fondo": "mandamas-fc/public/audio/sorteo-musica.mp3",
+  "efectos": [
+   [
+    "mandamas-fc/public/audio/sello.mp3",
+    6.2
+   ],
+   [
+    "mandamas-fc/public/audio/ding.mp3",
+    10.8
+   ]
+  ]
+ }
+}

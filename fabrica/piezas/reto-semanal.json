@@ -1,0 +1,61 @@
+{
+ "escenas": [
+  {
+   "img": "mandamas-fc/Claude outputs/para-fable-pantallas/63-reto-portada.png",
+   "recorte": [
+    0,
+    640,
+    786,
+    1075
+   ],
+   "titulo": "Cada lunes, un reto nuevo",
+   "sub": "La misma situación y la misma suerte para todos.",
+   "dur": 3.6
+  },
+  {
+   "img": "mandamas-fc/Claude outputs/para-fable-pantallas/74-celebracion-reto-confeti.png",
+   "recorte": [
+    0,
+    140,
+    786,
+    1270
+   ],
+   "titulo": "¿Cuánto sacas?",
+   "sub": "Tu nota, de 0 a 10.",
+   "dur": 3.6
+  },
+  {
+   "img": "mandamas-fc/Claude outputs/para-fable-pantallas/64-reto-llegada.png",
+   "recorte": [
+    0,
+    500,
+    786,
+    1275
+   ],
+   "titulo": "Reta a un amigo",
+   "sub": "Le llega tu nota. ¿Te la gana?",
+   "dur": 4.0
+  }
+ ],
+ "cierre": {
+  "titulo": "Reto nuevo cada lunes.",
+  "dur": 2.8
+ },
+ "audio": {
+  "fondo": "mandamas-fc/public/audio/ambiente.mp3",
+  "efectos": [
+   [
+    "mandamas-fc/public/audio/contador.mp3",
+    3.5
+   ],
+   [
+    "mandamas-fc/public/audio/ovacion.mp3",
+    4.3
+   ],
+   [
+    "mandamas-fc/public/audio/ding.mp3",
+    7.0
+   ]
+  ]
+ }
+}
