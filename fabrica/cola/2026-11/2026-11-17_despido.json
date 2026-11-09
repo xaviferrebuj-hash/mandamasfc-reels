@@ -1,0 +1,39 @@
+{
+  "slug": "despido",
+  "fecha": "2026-11-17T19:30:00+01:00",
+  "origen": "capturas del juego (pruebas, 8-11)",
+  "estado": "programado",
+  "salida": {
+    "mp4": "lote-2026-11-17/despido.mp4",
+    "bytes": 1547034,
+    "sha256": "fda14b8f50fb4e6ce008877278ec540ebfe6e82563a66bf1e5da25208dcb42e7"
+  },
+  "textos": {
+    "instagram_tiktok": "Dos jornadas con la junta en rojo: último aviso. A la tercera, a la calle. Como en el fútbol. ¿Cuántas temporadas aguantarías tú?\n\nMandamás FC: eres el presidente de un club de Tercera. Demo gratis en mandamasfc.com (enlace en el perfil).\n\n#futbol #juegodefutbol #presidente #mandamasfc",
+    "youtube_titulo": "A la tercera, a la calle · Mandamás FC",
+    "youtube_descripcion": "Dos jornadas con la junta en rojo: último aviso. A la tercera, a la calle. Como en el fútbol. ¿Cuántas temporadas aguantarías tú?\n\nMandamás FC: eres el presidente de un club de Tercera. Juega la demo gratis: https://mandamasfc.com/yt?utm_campaign=despido\n\n#futbol #juegodefutbol #presidente",
+    "youtube_para_ninos": false
+  },
+  "ia": true,
+  "historial": [
+    {
+      "estado": "preparado",
+      "fecha": "2026-11-09T13:05:00+01:00",
+      "por": "Claude"
+    },
+    {
+      "estado": "aprobado",
+      "fecha": "2026-11-09T13:12:00+01:00",
+      "por": "Xavi"
+    },
+    {
+      "estado": "programado",
+      "fecha": "2026-11-09T13:13:00+01:00",
+      "por": "Claude"
+    }
+  ],
+  "metricool": {
+    "instagram_tiktok": 421732646,
+    "youtube": 421732703
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "reto",
+  "fecha": "2026-11-21T19:30:00+01:00",
+  "origen": "capturas del juego (pruebas, 8-11)",
+  "estado": "programado",
+  "salida": {
+    "mp4": "lote-2026-11-17/reto-semanal.mp4",
+    "bytes": 1866104,
+    "sha256": "3a8ceb4aa05fdf167b2bc1a5cf31e3b73da315c010b2aa90df1b09cf7ef41270"
+  },
+  "textos": {
+    "instagram_tiktok": "Cada lunes, un reto nuevo: la misma situación y la misma suerte para todos. Saca tu nota y reta a un amigo. ¿Cuánto sacas tú?\n\nMandamás FC: eres el presidente de un club de Tercera. Demo gratis en mandamasfc.com (enlace en el perfil).\n\n#futbol #juegodefutbol #presidente #mandamasfc",
+    "youtube_titulo": "Reto de la semana: ¿le ganas a un amigo? · Mandamás FC",
+    "youtube_descripcion": "Cada lunes, un reto nuevo: la misma situación y la misma suerte para todos. Saca tu nota y reta a un amigo. ¿Cuánto sacas tú?\n\nMandamás FC: eres el presidente de un club de Tercera. Juega la demo gratis: https://mandamasfc.com/yt?utm_campaign=reto\n\n#futbol #juegodefutbol #presidente",
+    "youtube_para_ninos": false
+  },
+  "ia": true,
+  "historial": [
+    {
+      "estado": "preparado",
+      "fecha": "2026-11-09T13:05:00+01:00",
+      "por": "Claude"
+    },
+    {
+      "estado": "aprobado",
+      "fecha": "2026-11-09T13:12:00+01:00",
+      "por": "Xavi"
+    },
+    {
+      "estado": "programado",
+      "fecha": "2026-11-09T13:13:00+01:00",
+      "por": "Claude",
+      "nota": "En Metricool como BORRADOR (draft true): solo se activa si el reto llega a la web pública con el despliegue del 11-11. Comprobación programada el 12-11."
+    }
+  ],
+  "metricool": {
+    "instagram_tiktok": 421732933,
+    "youtube": 421733002
+  }
+}

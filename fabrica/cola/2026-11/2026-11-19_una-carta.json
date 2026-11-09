@@ -1,0 +1,39 @@
+{
+  "slug": "una-carta",
+  "fecha": "2026-11-19T19:30:00+01:00",
+  "origen": "capturas del juego (pruebas, 8-11)",
+  "estado": "programado",
+  "salida": {
+    "mp4": "lote-2026-11-17/una-carta.mp4",
+    "bytes": 1933125,
+    "sha256": "f8d9c404e4ae9afef867f9c830a409db8d8f22f75448e2ed7bf3285a680c4b76"
+  },
+  "textos": {
+    "instagram_tiktok": "Cada jornada, hasta tres decisiones, y cada carta tiene su precio. El alcalde quiere foto antes de las elecciones: ¿toda la plantilla, solo el presidente o nadie? Cuéntamelo en comentarios.\n\nMandamás FC: eres el presidente de un club de Tercera. Demo gratis en mandamasfc.com (enlace en el perfil).\n\n#futbol #juegodefutbol #presidente #mandamasfc",
+    "youtube_titulo": "¿Y tú qué harías, presidente? · Mandamás FC",
+    "youtube_descripcion": "Cada jornada, hasta tres decisiones, y cada carta tiene su precio. El alcalde quiere foto antes de las elecciones: ¿toda la plantilla, solo el presidente o nadie? Cuéntamelo en comentarios.\n\nMandamás FC: eres el presidente de un club de Tercera. Juega la demo gratis: https://mandamasfc.com/yt?utm_campaign=una-carta\n\n#futbol #juegodefutbol #presidente",
+    "youtube_para_ninos": false
+  },
+  "ia": false,
+  "historial": [
+    {
+      "estado": "preparado",
+      "fecha": "2026-11-09T13:05:00+01:00",
+      "por": "Claude"
+    },
+    {
+      "estado": "aprobado",
+      "fecha": "2026-11-09T13:12:00+01:00",
+      "por": "Xavi"
+    },
+    {
+      "estado": "programado",
+      "fecha": "2026-11-09T13:13:00+01:00",
+      "por": "Claude"
+    }
+  ],
+  "metricool": {
+    "instagram_tiktok": 421732788,
+    "youtube": 421732841
+  }
+}
