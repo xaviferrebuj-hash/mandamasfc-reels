@@ -37,10 +37,16 @@
       "fecha": "2026-11-09T13:37:00+01:00",
       "por": "Claude, con el OK de Xavi",
       "nota": "Calendario corregido a lunes, miércoles y viernes (estaba un día tarde por un error de días de la semana): 2026-11-21 → 2026-11-20. Ids de Metricool 421732933/421733002 → 421758109/421758178."
+    },
+    {
+      "estado": "programado",
+      "fecha": "2026-11-12T10:07:00+01:00",
+      "por": "Claude (tarea programada del 12-11)",
+      "nota": "El reto está en la pública desde el despliegue del 10-11 (535ed018 en main, versión pública 0e5a4b82f204). Borrador quitado en Metricool sin cambiar el contenido. Ids 421758109/421758178 → 425422585/425422635."
     }
   ],
   "metricool": {
-    "instagram_tiktok": 421758109,
-    "youtube": 421758178
+    "instagram_tiktok": 425422585,
+    "youtube": 425422635
   }
 }

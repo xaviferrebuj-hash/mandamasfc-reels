@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-09T19:51:00+01:00",
+  "actualizado": "2026-11-12T10:08:00+01:00",
   "eventos": [
     {
       "fecha": "2026-11-08",
@@ -28,6 +28,10 @@
     {
       "fecha": "2026-11-09",
       "que": "Primer vídeo publicado: estrella, a las 19:30, en Instagram (reel Dfh-rjaiWne), TikTok (7706241106383555862) y YouTube Shorts (i2bo6764fUA). Comprobado por Claude con getScheduledPosts."
+    },
+    {
+      "fecha": "2026-11-12",
+      "que": "Reto (viernes 20-11, 19:30): borrador quitado en Metricool porque el reto ya está en la pública desde el 10-11. Ids nuevos 425422585 (Instagram + TikTok) y 425422635 (YouTube)."
     }
   ]
 }
