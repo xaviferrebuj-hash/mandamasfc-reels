@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-17T14:14:00+01:00",
+  "actualizado": "2026-11-17T19:51:00+01:00",
   "eventos": [
     {
       "fecha": "2026-11-08",
@@ -48,6 +48,10 @@
     {
       "fecha": "2026-11-17",
       "que": "Presi pieza 3 programada de verdad para el miércoles 18-11 a las 20:00 (Instagram + TikTok 431433406; YouTube Short 431433480), con el OK de Xavi."
+    },
+    {
+      "fecha": "2026-11-17",
+      "que": "Primera pieza de la serie del presi publicada a las 19:30: Instagram (reel Df2lMmIBn4Q), TikTok (7709209948462304534) y YouTube Shorts (now7b6ARu1A). Comprobado por Claude con getScheduledPosts a las 19:51."
     }
   ]
 }
