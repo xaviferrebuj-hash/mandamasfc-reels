@@ -1,0 +1,42 @@
+{
+  "slug": "presi-sangre",
+  "serie": "El presi (falso documental con Xavi); pieza 3, «El fútbol en la sangre»",
+  "fecha": "2026-11-18T20:00:00+01:00",
+  "origen": "sesión 1 de rodaje (16-11); montaje de Fable en ~/proyectos/Claude outputs/serie/sesion-1/montaje-fable/pieza-3-sangre-final.mp4, recodificado a 9,1 MB para este repo",
+  "estado": "borrador",
+  "salida": {
+    "mp4": "serie-presi/pieza-3-sangre.mp4",
+    "bytes": 9057587,
+    "sha256": "5c16cb7d7b73e41405de3881520bd47624ba019a7bb7fffe557f908eab66c992"
+  },
+  "textos": {
+    "instagram_tiktok": "El presidente del Atlético Bastión dice que lleva el fútbol en la sangre. Luego cogió un balón.\n\nMandamás FC: el juego en el que el presidente eres tú. A ver cuánto duras. Demo gratis en mandamasfc.com (enlace en el perfil).\n\n#futbol #humor #presidente #mandamasfc",
+    "tiktok_titulo": "Dice que lleva el fútbol en la sangre. Luego cogió un balón.",
+    "youtube_titulo": "«El fútbol no se elige, se hereda»: el presi coge un balón · Mandamás FC",
+    "youtube_descripcion": "El presidente del Atlético Bastión dice que lleva el fútbol en la sangre. Luego cogió un balón.\n\nMandamás FC: el juego en el que el presidente eres tú. A ver cuánto duras. Juega la demo gratis: https://mandamasfc.com/yt?utm_campaign=presi-sangre\n\n#futbol #humor #presidente",
+    "youtube_para_ninos": false
+  },
+  "ia": false,
+  "nota_ia": "Sin marca de IA: decisión de Xavi para toda la serie (17-11).",
+  "portada_ms": 300,
+  "historial": [
+    {
+      "estado": "aprobado",
+      "fecha": "2026-11-17T13:04:00+01:00",
+      "por": "Xavi",
+      "nota": "Pieza aprobada. A las 14:02 pide programarla a las 20:00; desde ahora se publica siempre entre las 20:00 y las 22:00."
+    },
+    {
+      "estado": "borrador",
+      "fecha": "2026-11-17T14:04:00+01:00",
+      "por": "Claude",
+      "nota": "Creadas en Metricool como borrador para el miércoles 18-11 a las 20:00. Falta el OK de Xavi a los textos."
+    }
+  ],
+  "metricool": {
+    "instagram_tiktok": 431425569,
+    "instagram_tiktok_uuid": "2195979386662833611",
+    "youtube": 431425629,
+    "youtube_uuid": "962623204611410106"
+  }
+}
