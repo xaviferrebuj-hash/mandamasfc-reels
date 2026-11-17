@@ -3,7 +3,7 @@
   "serie": "El presi (falso documental con Xavi); pieza 3, «El fútbol en la sangre»",
   "fecha": "2026-11-18T20:00:00+01:00",
   "origen": "sesión 1 de rodaje (16-11); montaje de Fable en ~/proyectos/Claude outputs/serie/sesion-1/montaje-fable/pieza-3-sangre-final.mp4, recodificado a 9,1 MB para este repo",
-  "estado": "borrador",
+  "estado": "programado",
   "salida": {
     "mp4": "serie-presi/pieza-3-sangre.mp4",
     "bytes": 9057587,
@@ -31,12 +31,18 @@
       "fecha": "2026-11-17T14:04:00+01:00",
       "por": "Claude",
       "nota": "Creadas en Metricool como borrador para el miércoles 18-11 a las 20:00. Falta el OK de Xavi a los textos."
+    },
+    {
+      "estado": "programado",
+      "fecha": "2026-11-17T14:13:00+01:00",
+      "por": "Claude, con el OK de Xavi",
+      "nota": "Xavi: «la pieza ok» (14:12). Borrador quitado; sale el miércoles 18-11 a las 20:00."
     }
   ],
   "metricool": {
-    "instagram_tiktok": 431425569,
+    "instagram_tiktok": 431433406,
     "instagram_tiktok_uuid": "2195979386662833611",
-    "youtube": 431425629,
+    "youtube": 431433480,
     "youtube_uuid": "962623204611410106"
   }
 }
