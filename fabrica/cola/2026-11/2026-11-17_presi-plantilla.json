@@ -1,0 +1,42 @@
+{
+  "slug": "presi-plantilla",
+  "serie": "El presi (falso documental con Xavi); pieza 1, «La plantilla»",
+  "fecha": "2026-11-17T19:30:00+01:00",
+  "origen": "sesión 1 de rodaje (16-11); montaje de Fable en ~/proyectos/Claude outputs/serie/sesion-1/montaje-fable/pieza-1-plantilla-final.mp4, recodificado a 9,1 MB para este repo",
+  "estado": "borrador",
+  "salida": {
+    "mp4": "serie-presi/pieza-1-plantilla.mp4",
+    "bytes": 9088195,
+    "sha256": "d5407a7e01192d0e0ebf4a3a37ce925e416b0862b247cc5dcc3ff7ad064c6536"
+  },
+  "textos": {
+    "instagram_tiktok": "Le preguntamos al presidente del Atlético Bastión por su plantilla. Contestó dos veces.\n\nMandamás FC: el juego en el que el presidente eres tú. A ver cuánto duras. Demo gratis en mandamasfc.com (enlace en el perfil).\n\n#futbol #humor #presidente #mandamasfc",
+    "tiktok_titulo": "Le preguntamos al presidente por su plantilla. Contestó dos veces.",
+    "youtube_titulo": "«Como si fueran mis hijos»: el presi opina de su plantilla · Mandamás FC",
+    "youtube_descripcion": "Le preguntamos al presidente del Atlético Bastión por su plantilla. Contestó dos veces.\n\nMandamás FC: el juego en el que el presidente eres tú. A ver cuánto duras. Juega la demo gratis: https://mandamasfc.com/yt?utm_campaign=presi-plantilla\n\n#futbol #humor #presidente",
+    "youtube_para_ninos": false
+  },
+  "ia": true,
+  "nota_ia": "Marcado como IA por las ilustraciones de la cortinilla y del cierre (regla del README). Pendiente de que Xavi confirme si esta serie, que es imagen real, debe llevar la marca.",
+  "portada_ms": 500,
+  "historial": [
+    {
+      "estado": "aprobado",
+      "fecha": "2026-11-17T13:04:00+01:00",
+      "por": "Xavi",
+      "nota": "Pieza aprobada; pide publicarla hoy entre las 19:00 y las 20:00 y que Claude prepare la publicación en Metricool (13:46)."
+    },
+    {
+      "estado": "borrador",
+      "fecha": "2026-11-17T13:50:00+01:00",
+      "por": "Claude",
+      "nota": "Creadas en Metricool como borrador para las 19:30. No salen hasta que Xavi dé el OK a los textos y se quite el borrador."
+    }
+  ],
+  "metricool": {
+    "instagram_tiktok": 431407679,
+    "instagram_tiktok_uuid": "1303572430852279761",
+    "youtube": 431407744,
+    "youtube_uuid": "-6641494482349571333"
+  }
+}
