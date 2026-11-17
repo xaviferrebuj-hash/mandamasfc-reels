@@ -2,7 +2,7 @@
   "slug": "reto",
   "fecha": "2026-11-20T19:30:00+01:00",
   "origen": "capturas del juego (pruebas, 8-11)",
-  "estado": "programado",
+  "estado": "borrador",
   "salida": {
     "mp4": "lote-2026-11-17/reto-semanal.mp4",
     "bytes": 1866104,
@@ -43,10 +43,16 @@
       "fecha": "2026-11-12T10:07:00+01:00",
       "por": "Claude (tarea programada del 12-11)",
       "nota": "El reto está en la pública desde el despliegue del 10-11 (535ed018 en main, versión pública 0e5a4b82f204). Borrador quitado en Metricool sin cambiar el contenido. Ids 421758109/421758178 → 425422585/425422635."
+    },
+    {
+      "estado": "borrador",
+      "fecha": "2026-11-17T13:58:00+01:00",
+      "por": "Claude, con el OK de Xavi",
+      "nota": "Xavi: «lo del reto fuera, ahora solo publicamos la serie». Ya figuraba como borrador en Metricool desde el 16-11 (ids 429937422 y 429937500); se deja así, sin borrar."
     }
   ],
   "metricool": {
-    "instagram_tiktok": 425422585,
-    "youtube": 425422635
+    "instagram_tiktok": 429937422,
+    "youtube": 429937500
   }
 }

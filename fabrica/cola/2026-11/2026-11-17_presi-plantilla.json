@@ -3,7 +3,7 @@
   "serie": "El presi (falso documental con Xavi); pieza 1, «La plantilla»",
   "fecha": "2026-11-17T19:30:00+01:00",
   "origen": "sesión 1 de rodaje (16-11); montaje de Fable en ~/proyectos/Claude outputs/serie/sesion-1/montaje-fable/pieza-1-plantilla-final.mp4, recodificado a 9,1 MB para este repo",
-  "estado": "borrador",
+  "estado": "programado",
   "salida": {
     "mp4": "serie-presi/pieza-1-plantilla.mp4",
     "bytes": 9088195,
@@ -16,8 +16,8 @@
     "youtube_descripcion": "Le preguntamos al presidente del Atlético Bastión por su plantilla. Contestó dos veces.\n\nMandamás FC: el juego en el que el presidente eres tú. A ver cuánto duras. Juega la demo gratis: https://mandamasfc.com/yt?utm_campaign=presi-plantilla\n\n#futbol #humor #presidente",
     "youtube_para_ninos": false
   },
-  "ia": true,
-  "nota_ia": "Marcado como IA por las ilustraciones de la cortinilla y del cierre (regla del README). Pendiente de que Xavi confirme si esta serie, que es imagen real, debe llevar la marca.",
+  "ia": false,
+  "nota_ia": "Sin marca de IA por decisión de Xavi (17-11, 13:57): la serie es imagen real, no está hecha con IA.",
   "portada_ms": 500,
   "historial": [
     {
@@ -31,12 +31,18 @@
       "fecha": "2026-11-17T13:50:00+01:00",
       "por": "Claude",
       "nota": "Creadas en Metricool como borrador para las 19:30. No salen hasta que Xavi dé el OK a los textos y se quite el borrador."
+    },
+    {
+      "estado": "programado",
+      "fecha": "2026-11-17T13:58:00+01:00",
+      "por": "Claude, con el OK de Xavi",
+      "nota": "Textos aprobados por Xavi; borrador quitado y marca de IA quitada. Sale hoy a las 19:30."
     }
   ],
   "metricool": {
-    "instagram_tiktok": 431407679,
+    "instagram_tiktok": 431416321,
     "instagram_tiktok_uuid": "1303572430852279761",
-    "youtube": 431407744,
+    "youtube": 431416387,
     "youtube_uuid": "-6641494482349571333"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "una-carta",
   "fecha": "2026-11-18T19:30:00+01:00",
   "origen": "capturas del juego (pruebas, 8-11)",
-  "estado": "programado",
+  "estado": "borrador",
   "salida": {
     "mp4": "lote-2026-11-17/una-carta.mp4",
     "bytes": 1933125,
@@ -36,10 +36,16 @@
       "fecha": "2026-11-09T13:37:00+01:00",
       "por": "Claude, con el OK de Xavi",
       "nota": "Calendario corregido a lunes, miércoles y viernes (estaba un día tarde por un error de días de la semana): 2026-11-19 → 2026-11-18. Ids de Metricool 421732788/421732841 → 421757957/421758029."
+    },
+    {
+      "estado": "borrador",
+      "fecha": "2026-11-17T13:58:00+01:00",
+      "por": "Claude, con el OK de Xavi",
+      "nota": "Xavi decide que de momento solo se publica la serie del presi. Pasada a borrador en Metricool (no sale el 18-11). Ids 421757957/421758029 → 431416485/431416566."
     }
   ],
   "metricool": {
-    "instagram_tiktok": 421757957,
-    "youtube": 421758029
+    "instagram_tiktok": 431416485,
+    "youtube": 431416566
   }
 }
